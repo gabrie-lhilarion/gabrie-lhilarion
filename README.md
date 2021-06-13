@@ -1,16 +1,20 @@
 ### Hi there 👋
+```
+const GABRIEL_HILARION = {
+    languages: ["Javascript", "Ruby", "Python", "PHP", "TYPESCRIPT"],
+    IknowAbout: ["web development", "E-commerse", "TDD"],
+    technologies: {
+        frontEnd: {
+            css: ["BOOTSTRAP", "BULMA"],
+            js: ["REACT", "JEST", "PUPPETEER"]
+        },
+        backEnd: {
+            js: ["NODE", "EXPRESS" ],
+            ruby: ["RAILS", "SINATRA"],
+        },
+        databases: ["POSTGRESS", "MYSQL", "SQLITE", "MONGODB", "FIRESTORE"],
+        cloud: ["AWS", "HEROKU"]
+    }
+};
+```
 
-<!--
-**gabrie-lhilarion/gabrie-lhilarion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
