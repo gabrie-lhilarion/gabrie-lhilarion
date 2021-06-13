@@ -1,7 +1,7 @@
 ### Hi there 👋
 ```
 const GABRIEL_HILARION = {
-    languages: ["Javascript", "Ruby", "Python", "PHP", "TYPESCRIPT"],
+    languages: ["JAVASCRIPT", "RUBY", "PYTHON", "PHP", "TYPESCRIPT"],
     IknowAbout: ["web development", "E-commerse", "TDD"],
     technologies: {
         frontEnd: {
